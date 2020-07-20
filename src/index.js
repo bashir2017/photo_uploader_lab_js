@@ -19,9 +19,7 @@ function openPicForm(action){
 
 
 //****Start coding below****//
-
 const photoContainer = document.querySelector('#photoContainer')
-
 
 //initial fetch 
 fetch('http://localhost:3000/photos')
